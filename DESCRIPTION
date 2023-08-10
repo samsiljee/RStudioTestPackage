@@ -1,11 +1,13 @@
 Package: RStudioTestPackage
+Date: 10 August 2023
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
+Title: Test Package Made in RStudio
+Version: 0.0.0-1
+Author: Sam Siljee <samsiljee@gmail.com>
+Maintainer: Sam Siljee <samsiljee@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Depends: R (>= 4.3.0)
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
